@@ -1,1 +1,0 @@
-README file for the Advanced Programming Google Python Exercises
